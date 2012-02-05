@@ -1,0 +1,7 @@
+Maintainer: Cody Faust <cfaust244@gmail.com>
+License:    GPL v3
+
+The Phoenix AntiCheat system is an open source anti cheating, glitching, and
+stat padding protection measure. It is developed entirely in the open to ensure
+that weaknesses in the detection measures can be quickly and accurately patched
+to counter the rapid development of cheats found in modern games.

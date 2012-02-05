@@ -1,0 +1,8 @@
+Maintainer: Cody Faust <cfaust244@gmail.com>
+License:    GPL v3
+
+Core contains all the classes necessary to perform basic file IO, 
+initialization of other components and overall features. 
+Classes located in core should be needed by multiple engine components. 
+
+
